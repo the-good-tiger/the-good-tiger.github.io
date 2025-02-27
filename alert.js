@@ -1,2 +1,2 @@
 alert(document.domain);
-alert(document.cookies);
+alert(document.cookie);
